@@ -1,3 +1,6 @@
+<h1 align="center">HI. I'm Suraj Kumar Sharma</h1>
+<h3 align="center">A passionate Software Engineer from India. </h3>
+
 # 💫 About Me:
 🔭 I’m currently working on Frameworks, Courses etc.<br>👯 I’m looking to collaborate on web3 , problem solving<br>🤝 I’m looking for help with learning<br>🌱 I’m currently learning React<br>💬 Ask me about Technology <br>⚡ How to reach me ssharmabbk14@gmail.com
 
