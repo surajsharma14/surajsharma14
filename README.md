@@ -4,6 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
+
+![cherry-blossoms-japan](https://user-images.githubusercontent.com/34781875/184046905-9e8e417b-43f5-40d2-a773-22b1b3907ed6.gif)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Frameworks, Courses etc.<br>👯 I’m looking to collaborate on development and problem solving<br>🤝 I’m looking for help with learn in Public.<br>🌱 I’m currently learning React<br>💬 Ask me about Technology <br>⚡ How to reach me ssharmabbk14@gmail.com
 
