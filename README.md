@@ -1,11 +1,20 @@
-<h1 align="center">Hi 👋. I'm Suraj Kumar Sharma</h1>
-<h3 align="center">A passionate Software Engineer from India. </h3> 
+<!-- [![@krcpr007's Holopin board](https://holopin.me/krcpr007)](https://holopin.io/@krcpr007) -->
+![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png)
+<h1><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> <b> नमस्ते World </b> <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
+<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krcpr007" alt="Suraj" /> </p>
 
-![cherry-blossoms-japan](https://user-images.githubusercontent.com/34781875/184046905-9e8e417b-43f5-40d2-a773-22b1b3907ed6.gif)
+<p><i> I'm Suraj Kumar Sharma Computer Science Undergraduate. I'm a Tech Enthusiast, Full stack Web Developer and an Open Source Contributor. I love to explore and learn about new domains. <b>And looking for opportunities for SDE role </b> </i></p>
+<ul>
+<li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
+<li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code>,<code>OOPs</code></li>
+<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/">LinkedIn</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://surajsharma14.bio.link/">surajsharma14.bio.link</a></code></li>
+<li> 😄 <b>Pronouns</b> : <code>He</code>/<code>His</code></li>
+<!-- <li> ⚡ <b>Fun fact</b> : </li> -->
+</ul>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 
 
