@@ -21,9 +21,9 @@
 <p align="center"> 
 
 [![Twitter Badge](https://img.shields.io/badge/-@surajsharma14-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/suraj_sharma14_)](https://twitter.com/suraj_sharma14)
-[![Linkedin Badge](https://img.shields.io/badge/-Rajan_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krcpr007/)](https://www.linkedin.com/in/krcpr007)
-[![Gmail Badge](https://img.shields.io/badge/-rajankk.ug20.cse@nitp.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:rajankk.ug20.cse@nitp.ac.in)](mailto:rajankk.ug20.cse@nitp.ac.in)
-[![Instagram Badge](https://img.shields.io/badge/-@cr7.rajan-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/cr7.rajan)](https://www.instagram.com/cr7.rajan)
+[![Linkedin Badge](https://img.shields.io/badge/-Suraj_Kumar Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/)](https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/)
+[![Gmail Badge](https://img.shields.io/badge/-ssharmabbk14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:rajankk.ug20.cse@nitp.ac.in)](mailto:ssharmabbk14@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@elitexsuraj-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/cr7.rajan)](https://www.instagram.com/elitexsuraj)
 
 </p>
 
