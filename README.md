@@ -19,8 +19,7 @@
 
 
 
-# 💫 About Me:
-🔭 I’m currently working on Frameworks, Courses etc.<br>👯 I’m looking to collaborate on development and problem solving<br>🤝 I’m looking for help with learn in Public.<br>🌱 I’m currently learning React<br>💬 Ask me about Technology <br>⚡ How to reach me ssharmabbk14@gmail.com
+
 
 
 ## 🌐 Socials:
