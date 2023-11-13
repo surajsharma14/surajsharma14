@@ -17,13 +17,23 @@
 
 
 
+<h3>Let's Connect</h3>
+<p align="center"> 
+
+[![Twitter Badge](https://img.shields.io/badge/-@cr7__rajan-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/suraj_sharma14_)](https://twitter.com/suraj_sharma14)
+[![Linkedin Badge](https://img.shields.io/badge/-Rajan_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krcpr007/)](https://www.linkedin.com/in/krcpr007)
+[![Gmail Badge](https://img.shields.io/badge/-rajankk.ug20.cse@nitp.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:rajankk.ug20.cse@nitp.ac.in)](mailto:rajankk.ug20.cse@nitp.ac.in)
+[![Instagram Badge](https://img.shields.io/badge/-@cr7.rajan-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/cr7.rajan)](https://www.instagram.com/cr7.rajan)
+
+</p>
+
+
+## 📊 My Github Stats
 
 
 
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ElitexSuraj#4345) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elitexsuraj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surajkumarsharma14/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/suraj_sharma14) 
 
 <h3>Languages and Tools</h3>
   <p align="center"> 
