@@ -4,7 +4,7 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krcpr007" alt="Suraj" /> </p>
 
-<p><i> I'm Suraj Kumar Sharma Computer Science Undergraduate. I'm a Tech Enthusiast, Full stack Web Developer and an Open Source Contributor. I love to explore and learn about new domains. <b>And looking for opportunities for SDE role </b> </i></p>
+<p><i> I'm Suraj Kumar Sharma a DevRel Engineer at BizThon . I'm a global community builder, Full stack Web Developer and an Open Source Contributor. I love to explore and learn about new domains. <b>And I work around the amazing developers </b> </i></p>
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Full Stack Web Development</code></li>
 <li> 💬 <b>Ask me about</b>: <code>Problem Solving</code>, <code>Web Development</code>, <code>Git/Github</code>, <code>C++</code>,<code>OOPs</code></li>
