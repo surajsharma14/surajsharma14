@@ -1,60 +1,76 @@
-<!-- Header -->
-<h1>GM 👋</h1>
+<!-- ===================== -->
+<!-- Onchain Header -->
+<!-- ===================== -->
 
-<p>
-I work at the intersection of <b>developer relations, community and ecosystem growth</b> in Web3.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png" />
 </p>
 
-<p>
-I help protocols and products onboard developers, design high-signal communities, run global hackathons & events and turn early users into long-term contributors.
+<h1 align="center">
+  GM Builders 👋
+</h1>
+
+<p align="center">
+  <i>Onchain. Community-first. Developer-driven.</i>
 </p>
 
-<p>
-<b>Focus:</b> developer activation, ecosystem strategy, technical community building and builder-led growth.
-</p>
-
----
-
-### 👨‍💻 What I Do
-- DevRel & ecosystem strategy for Web3 protocols  
-- Developer onboarding, education & activation programs  
-- Global hackathons, meetups, workshops & builder events  
-- Community-led growth & content for technical audiences  
-- Open-source collaboration & contributor enablement  
-
----
-
-### 🌍 Currently
-- DevRel Engineer at <b>BizThon</b>  
-- Working closely with developers, founder and ecosystem teams  
-- Exploring modular chains, rollups, infra tooling & developer UX  
-
----
-
-### 🔗 Let’s Connect
-<p align="left">
-
-<a href="https://twitter.com/suraj_sharma14" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:ssharmabbk14@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://surajsharma14.bio.link/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" />
-</a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=surajsharma14&style=flat&color=blue" />
 </p>
 
 ---
 
-### 🛠 Blockchain Languages & Tools
+<!-- ===================== -->
+<!-- Animated Intro -->
+<!-- ===================== -->
+
+<img src="https://imgur.com/Z9n1y5S.gif" align="right" width="40%" />
+
+### 👋 I’m Suraj Kumar Sharma
+
+I work at the intersection of **Developer Relations, Community, and Ecosystem Growth** in Web3.
+
+I help protocols go from **“cool infra” → “builders actually shipping”** by designing:
+- developer onboarding journeys  
+- high-signal communities  
+- global hackathons & onchain events  
+- long-term contributor pipelines  
+
+> **Mission:** turn early adopters into long-term onchain contributors.
+
+---
+
+<!-- ===================== -->
+<!-- Onchain Focus -->
+<!-- ===================== -->
+
+### 🔗 What I’m Building Onchain
+- Developer ecosystems for **L1s, L2s, rollups & modular stacks**
+- Community-led adoption for infra & tooling
+- Education-first onboarding (docs → demos → deployments)
+- Builder visibility through events, content & global presence
+
+Currently working as a **DevRel Engineer at BizThon**, collaborating closely with:
+**developers · founders · ecosystem teams · open-source contributors**
+
+---
+
+<!-- ===================== -->
+<!-- Animated Divider -->
+<!-- ===================== -->
+
+<p align="center">
+  <img src="https://imgur.com/CTPzCrS.gif" width="30px" />
+  <img src="https://imgur.com/TFzFv3D.gif" width="25px" />
+</p>
+
+---
+
+<!-- ===================== -->
+<!-- Blockchain Stack -->
+<!-- ===================== -->
+
+### 🛠 Onchain Stack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40"/>
@@ -65,24 +81,35 @@ I help protocols and products onboard developers, design high-signal communities
 
 ---
 
-### 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=surajsharma14&show_icons=true&theme=dark&hide_border=true" />
+<!-- ===================== -->
+<!-- GitHub Stats -->
+<!-- ===================== -->
+
+### 📊 Onchain Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=surajsharma14&theme=dark&hide_border=true&show_icons=true" />
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajsharma14&theme=dark&hide_border=true" />
-</p>
-
----
-
-### ✨ Philosophy
-<p>
-Helping developers learn faster, build better and ship together.
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajsharma14&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-<p align="center">
-If you like what you see, feel free to ⭐ repositories and collaborate.
-</p>
+<!-- ===================== -->
+<!-- Connect -->
+<!-- ===================== -->
+
+### 🌍 Find Me Onchain / Online
+<p align="left">
+  <a href="https://twitter.com/suraj_sharma14">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ssharmabbk14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://surajsharma14.bio.link/">
+    <img src="https://img.shields.io/bad
