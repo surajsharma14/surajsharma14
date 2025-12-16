@@ -2,10 +2,6 @@
 <!-- Onchain Header -->
 <!-- ===================== -->
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png" />
-</p>
-
 <h1 align="center">
   GM Builders 👋
 </h1>
