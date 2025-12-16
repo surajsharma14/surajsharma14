@@ -50,16 +50,6 @@ Currently working as a **DevRel Engineer at BizThon**, collaborating closely wit
 **developers · founders · ecosystem teams · open-source contributors**
 
 ---
-
-<!-- ===================== -->
-<!-- Animated Divider -->
-<!-- ===================== -->
-
-<p align="center">
-  <img src="https://imgur.com/CTPzCrS.gif" width="30px" />
-  <img src="https://imgur.com/TFzFv3D.gif" width="25px" />
-</p>
-
 ---
 
 <!-- ===================== -->
