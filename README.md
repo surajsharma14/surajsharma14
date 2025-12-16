@@ -4,7 +4,7 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krcpr007" alt="Suraj" /> </p>
 
-<p><i> Working at the intersection of community, content, and growth in Web3.
+<p><i> Working at the intersection of community, content and growth in Web3.
 I help protocols and products onboard developers, run global hackathons & events and turn early users into long-term contributors. <b>Helping developers learn faster, build better and ship together.</b> </i></p>
 <ul>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/">LinkedIn</a></code></li>
@@ -21,37 +21,28 @@ I help protocols and products onboard developers, run global hackathons & events
 
 [![Twitter Badge](https://img.shields.io/badge/-@surajsharma14-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/suraj_sharma14_)](https://twitter.com/suraj_sharma14)
 [![Linkedin Badge](https://img.shields.io/badge/-Suraj_Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/)](https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8)
-[![Gmail Badge](https://img.shields.io/badge/-ssharmabbk14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:rajankk.ug20.cse@nitp.ac.in)](mailto:ssharmabbk14@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@elitexsuraj-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/cr7.rajan)](https://www.instagram.com/elitexsuraj)
-
+[![Gmail Badge](https://img.shields.io/badge/-surajonchain@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:rajankk.ug20.cse@nitp.ac.in)](mailto:ssharmabbk14@gmail.com)
 </p>
-
-
-## 📊 My Github Stats
-
-
-
-
-
 
 <h3>Languages and Tools</h3>
-  <p align="center"> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="NextJs" width="40" height="40" /></a>
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-
+<p align="center">
+  <a href="https://soliditylang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  </a>
+  <a href="https://ethereum.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" alt="Ethereum" width="40" height="40"/>
+  </a>
+  <a href="https://hardhat.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" alt="Hardhat" width="40" height="40"/>
+  </a>
+  <a href="https://docs.ethers.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethers/ethers-original.svg" alt="Ethers.js" width="40" height="40"/>
+  </a>
+  <a href="https://ipfs.tech/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ipfs/ipfs-original.svg" alt="IPFS" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
