@@ -1,101 +1,24 @@
-<!-- ===================== -->
-<!-- Onchain Header -->
-<!-- ===================== -->
+# 💫 About Me:
+Developer Relations and ecosystem growth in Web3, focusing on developer onboarding and product adoption.<br>Web3 infrastructure, developer tooling, rollups and builder-first platforms.<br>Deepening research around rollups, modular blockchains and cross-chain systems.<br>Ethereum rollups, modular architecture and scalable DevRel strategies for early-stage protocols.<br>Developer Relations, developer onboarding, technical content and ecosystem growth.<br>I enjoy turning complex protocol ideas into clear, developer-friendly narratives.
 
-<h1 align="center">
-  GM Builders 👋
-</h1>
 
-<p align="center">
-  <i>Onchain. Community-first. Developer-driven.</i>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@surajsharma14) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/suraj_sharma14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surajonchain@gmail.com) 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=surajsharma14&style=flat&color=blue" />
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=surajsharma14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=surajsharma14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surajsharma14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=surajsharma14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- ===================== -->
-<!-- Animated Intro -->
-<!-- ===================== -->
-
-<img src="https://imgur.com/Z9n1y5S.gif" align="right" width="40%" />
-
-### 👋 I’m Suraj Kumar Sharma
-
-I work at the intersection of **Developer Relations, Community, and Ecosystem Growth** in Web3.
-
-I help protocols go from **“cool infra” → “builders actually shipping”** by designing:
-- developer onboarding journeys  
-- high-signal communities  
-- global hackathons & onchain events  
-- long-term contributor pipelines  
-
-> **Mission:** turn early adopters into long-term onchain contributors.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=surajsharma14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- ===================== -->
-<!-- Onchain Focus -->
-<!-- ===================== -->
-
-### 🔗 What I’m Building Onchain
-- Developer ecosystems for **L1s, L2s, rollups & modular stacks**
-- Community-led adoption for infra & tooling
-- Education-first onboarding (docs → demos → deployments)
-- Builder visibility through events, content & global presence
-
-Currently working as a **DevRel Engineer at BizThon**, collaborating closely with:
-**developers · founders · ecosystem teams · open-source contributors**
-
----
----
-
-<!-- ===================== -->
-<!-- Blockchain Stack -->
-<!-- ===================== -->
-
-### 🛠 Onchain Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethers/ethers-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ipfs/ipfs-original.svg" width="40"/>
-</p>
-
----
-
-<!-- ===================== -->
-<!-- GitHub Stats -->
-<!-- ===================== -->
-
-### 📊 Onchain Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=surajsharma14&theme=dark&hide_border=true&show_icons=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajsharma14&theme=dark&hide_border=true" />
-</p>
-
----
-
-<!-- ===================== -->
-<!-- Connect -->
-<!-- ===================== -->
-
-### 🌍 Find Me Onchain / Online
-<p align="left">
-  <a href="https://twitter.com/suraj_sharma14">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/suraj-kumar-sharma-0349051a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ssharmabbk14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://surajsharma14.bio.link/">
-    <img src="https://img.shields.io/bad
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
