@@ -1,5 +1,10 @@
 # 💫 About Me:
-Developer Relations and ecosystem growth in Web3, focusing on developer onboarding and product adoption.<br>Web3 infrastructure, developer tooling, rollups and builder-first platforms.<br>Deepening research around rollups, modular blockchains and cross-chain systems.<br>Ethereum rollups, modular architecture and scalable DevRel strategies for early-stage protocols.<br>Developer Relations, developer onboarding, technical content and ecosystem growth.<br>I enjoy turning complex protocol ideas into clear, developer-friendly narratives.
+**I’m currently working on:** Developer Relations and ecosystem growth in Web3, focusing on developer onboarding and product adoption.<br>
+**I’m looking to collaborate on:** Web3 infrastructure, developer tooling, rollups and builder-first platforms.<br>
+**I’m looking for help with:** Deepening research around rollups, modular blockchains and cross-chain systems.<br>
+**I’m currently learning:** Ethereum rollups, modular architecture and scalable DevRel strategies for early-stage protocols.<br>
+**Ask me about:** Developer Relations, developer onboarding, technical content and ecosystem growth.<br>
+**Fun fact:** I enjoy turning complex protocol ideas into clear, developer-friendly narratives.
 
 
 ## 🌐 Socials:
